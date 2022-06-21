@@ -29,3 +29,5 @@ plugins:
   - search
   - roamlinks
   - callouts
+  - tags:
+      tag_file: Tags.md
