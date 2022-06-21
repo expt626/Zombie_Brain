@@ -1,5 +1,6 @@
 ---
-tags: guide
+tags: 
+  - guide
 ---
 
 # Examples
