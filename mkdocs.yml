@@ -30,4 +30,4 @@ plugins:
   - roamlinks
   - callouts
   - tags:
-      tag_file: Tags.md
+      tags_file: Tags.md
