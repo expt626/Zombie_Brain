@@ -1,3 +1,7 @@
+---
+tags: guide
+---
+
 # Examples
 What was tested so far
 
